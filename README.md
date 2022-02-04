@@ -1,4 +1,4 @@
-# us-analytics : A simple data visualization solution to monitor high-transactional I.T. systems.
+# A simple data visualization solution to monitor high-transactional I.T. systems.
 
 Instructions to setup grafana and import dashboards.
 
