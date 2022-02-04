@@ -2,9 +2,11 @@
 Instructions to setup grafana and import dashboards.
 
 # Prerequisites & steps:
-> A target system with kubernetes pods up and running (to be monitored)
-> Grafana, Prometheus installed and pods up and running in the monitoring cluster
-> Prometheus datasource added in Grafana : https://prometheus.io/docs/visualization/grafana/
+1. A target system with kubernetes pods up and running (to be monitored)
+
+2. Grafana, Prometheus installed and pods up and running in the monitoring cluster
+
+3. Prometheus datasource added in Grafana : https://prometheus.io/docs/visualization/grafana/
 
 ![image](https://user-images.githubusercontent.com/93224640/152584110-def3fd28-fc79-4386-a84c-3ea567180966.png)
 
