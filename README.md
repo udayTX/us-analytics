@@ -1,4 +1,4 @@
-# A simple data visualization solution to monitor high-transactional I.T. systems.
+# A simple data visualization solution to monitor high-transactional I.T. systems running on kuberenetes cluster (microservices based deployment).
 
 Instructions to setup grafana and import dashboards.
 
