@@ -1,4 +1,4 @@
-# Get Started with data visualization 101
+# Getting Started with data visualization 101
 
 **A robust data visualization solution to monitor high-transactional I.T. systems running on kuberenetes cluster (microservices based deployment). Import the code and get started!!**
 
