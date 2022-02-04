@@ -26,6 +26,8 @@ Once grafana is logged in, use the Import tool from side menu to import the dash
 
 Give appropriate names and titles to the dashboards and all panels should be visible
 
+# Attractive graphs that can dispay tons of info in a single dashboard
+
 <img width="910" alt="02" src="https://user-images.githubusercontent.com/93224640/152583958-787369e7-a538-4d5d-bda7-ae7d10860814.PNG">
 
 Save the dashboard.
