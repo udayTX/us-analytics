@@ -11,7 +11,7 @@ Instructions to setup grafana and import dashboards.
 ![image](https://user-images.githubusercontent.com/93224640/152584110-def3fd28-fc79-4386-a84c-3ea567180966.png)
 
 
-Once grafana is logged in, use the Import tool from side menu to import the dashboards : https://grafana.com/docs/grafana/latest/dashboards/export-import/
+Once grafana is logged in, use the Import tool from side menu to import the dashboards (Kubernetes cluster monitoring.json) : https://grafana.com/docs/grafana/latest/dashboards/export-import/
 
 ![image](https://user-images.githubusercontent.com/93224640/152584055-9e203b02-07ea-4f72-92f3-dbacffb286a4.png)
 
