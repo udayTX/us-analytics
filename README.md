@@ -9,6 +9,8 @@ Instructions to setup grafana and import dashboards.
 
 3. Prometheus datasource added in Grafana : https://prometheus.io/docs/visualization/grafana/
 
+4. Dashboard JSON codes : Kubernetes cluster monitoring.json
+
 ![image](https://user-images.githubusercontent.com/93224640/152584110-def3fd28-fc79-4386-a84c-3ea567180966.png)
 
 
