@@ -1,12 +1,15 @@
-# A robust data visualization solution to monitor high-transactional I.T. systems running on kuberenetes cluster (microservices based deployment). Import the code and get started!!
+# Get Started with data visualization 101
+
+**A robust data visualization solution to monitor high-transactional I.T. systems running on kuberenetes cluster (microservices based deployment). Import the code and get started!!**
 
 <img width="897" alt="01" src="https://user-images.githubusercontent.com/93224640/152591974-abd570a8-2b4e-453a-9d02-52788f5c9150.PNG">
 
-(A sample panel included in the attached json template)
+(A sample panel included in the attached json template - it has the necessary PromQL queries, scripted accordingly to pull accurate prometheus metrics from the databse, and use operators and functions to display the visualizations attached in the repository. More on that : https://prometheus.io/docs/prometheus/latest/querying/basics/)
 
 Instructions to setup grafana and import dashboards.
 
 # Prerequisites & steps:
+
 1. A target system with kubernetes pods up and running (to be monitored)
 
 2. Grafana, Prometheus installed and pods up and running in the monitoring cluster
@@ -34,4 +37,6 @@ Save the dashboard.
 
 Share / Export to different external users within your organization : https://grafana.com/docs/grafana/latest/sharing/
 
-Happy visualizing!!
+_Happy visualizing!!_
+
+(more advanced projects with Python modules on the way..)
