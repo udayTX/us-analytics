@@ -1,6 +1,8 @@
 # Getting Started with data visualization (Grafana + Prometheus)
 
-**A robust data visualization solution to monitor high-transactional I.T. systems running on kuberenetes cluster (microservices based deployment). Import the code and get started!!**
+**A robust data visualization solution to monitor high-transactional I.T. systems running on kuberenetes cluster (microservices based deployment).**
+
+**Import the code and get started!!**
 
 <img width="897" alt="01" src="https://user-images.githubusercontent.com/93224640/152591974-abd570a8-2b4e-453a-9d02-52788f5c9150.PNG">
 
